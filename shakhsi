@@ -1,1 +1,5 @@
+vless://42d1cd9c-5a58-4a9e-b612-6726059579e9@49.12.228.229:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%9A%80%20Marz%20%28test%29%20%5BVLESS%20-%20tcp%5D
+vless://42d1cd9c-5a58-4a9e-b612-6726059579e9@49.12.228.229:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=xbox.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%9A%80%20Marz%20%28test%29%20%5BVLESS%20-%20tcp%5D
+vless://42d1cd9c-5a58-4a9e-b612-6726059579e9@49.12.228.229:2088?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.zula.ir&fp=chrome&pbk=Bc-IzLsrGmRL8XEoKL4O7foeP2iVdqIs-97RUT-Tokc&sid=ea83a8b0&type=tcp&headerType=none#%F0%9F%9A%80%20Marz%20%28test%29%20%5BVLESS%20-%20tcp%5D
+vless://42d1cd9c-5a58-4a9e-b612-6726059579e9@49.12.228.229:2053?encryption=none&security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=xyz&mode=gun#%F0%9F%9A%80%20Marz%20%28test%29%20%5BVLESS%20-%20grpc%5D
 
