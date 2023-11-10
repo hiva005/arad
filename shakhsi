@@ -3,4 +3,7 @@ hy2://hiva1397@[2a0a:6040:9500:10::b]:8443/?insecure=1&sni=google.com&obfs=salam
 tuic://5f20af54-6212-438a-aac5-722da7e5ea2c:hiva1397@194.5.97.136:8444/?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#Tuic%20IPv4
 tuic://5f20af54-6212-438a-aac5-722da7e5ea2c:hiva1397@[2a0a:6040:9500:10::b]:8444/?congestion_control=cubic&udp_relay_mode=native&alpn=h3%2Cspdy%2F3.1&allow_insecure=1#Tuic%20IPv6
 vless://9cd715a1-a885-4959-8ae5-08832169b4a6@194.5.97.136:8088?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=grpc&flow=&sni=www.datadoghq.com&pbk=1M8USHFwiUwLpRsQp6d5nbZTbmn_GycCsPuoIKeU9yU&sid=a96eb1bcfc4d36cd&mode=gun&serviceName=ffbd1ce3#RealityEZPZ-nl
-vless://22fb27af-8fbc-46d8-8d2e-a9ed3f47ce54@213.142.149.206:8884?security=reality&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&pbk=ww_aqykFTGKXesg4d4tNYqm44REuChr9t8N2O4BkaEQ&sid=74491ddf188f4892#RealityEZPZ-tr
+hy2://36a5d80c-32df-4694-9f00-eb0e8ffb139e@78.141.192.228:20627/?insecure=1&sni=www.bing.com#hy2
+tuic://36a5d80c-32df-4694-9f00-eb0e8ffb139e:36a5d80c-32df-4694-9f00-eb0e8ffb139e@78.141.192.228:26034/?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#tu5
+vless://36a5d80c-32df-4694-9f00-eb0e8ffb139e@78.141.192.228:46282/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bmw.com&fp=chrome&security=reality&pbk=iWQvDwIyBjiNoloyJqk9Atskdet1Vxv0SGk5hySWcGU&sid=6b7909b4#vl-reality
+vless://36a5d80c-32df-4694-9f00-eb0e8ffb139e@ir.drcctv.shop:46282/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bmw.com&fp=chrome&security=reality&pbk=iWQvDwIyBjiNoloyJqk9Atskdet1Vxv0SGk5hySWcGU&sid=6b7909b4#tunell
