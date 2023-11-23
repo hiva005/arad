@@ -1,6 +1,2 @@
-vless://3da47ab5-55f9-498b-91e6-e700036bf717@tr.drcctv.shop:4049/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=datadoghq.com&fp=chrome&security=reality&pbk=3dD8Vhf2M3hZjWiR74VU5_xHJQcyZAZY4kJFNJINZXw&sid=cb87a0e5#Reality-TR-TCP
-vless://2e01a1c1-1606-4e01-ec14-92d6bbb8ef68@tr.drcctv.shop:8443/?type=grpc&encryption=none&sni=bmw.com&fp=chrome&security=reality&pbk=YEP3kCnHDsjgNptWY85PESju-HocJjF6gmy2GCozXwQ&sid=ac#Reality-Grpc-TR
-vless://9d4e5f79-1a3e-4965-c53e-e1da45299b48@tr.drcctv.shop:39714/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ghbi.ir&fp=chrome&security=reality&pbk=eE5h15T4MShY0F0B8TmS93aqe9Vdbto4q1JjgURuKks&sid=b0#Reality-jadid
-vless://ba8cda36-f504-469a-9adf-885a3960832d@77.72.80.27:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.datadoghq.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=jjAasjzDVI0BDTj1zCqcMbthO-2C6eY05-VguGSDjk4&sid=54dc2c07f5183af4#NL-TUNELL
-vless://dbd979b3-212e-4cfd-a972-a5811ee2fb1d@78.141.192.228:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.datadoghq.com&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=B3LaxPzkMLQXKYxaZvqy5919O9et4YF6Pxe3egLgHzA&sid=f585c2dd6fd00ef1#RealityEZPZ-Uk
-
+vless://b3ee3a6d-0aef-497c-c3f8-803b73b95277@ho.drcctv.shop:8088?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hiva.zara.com&fp=chrome&pbk=8c_kWWLDJBQWZqBVB2_NOZJfDIVkSFX1TYiM-dSjvjc&sid=d9747f&spx=%2F&type=tcp&headerType=none#Reality-Tcp-NL
+vless://b3ee3a6d-0aef-497c-c3f8-803b73b95277@ir.drcctv.shop:8088?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hiva.zara.com&fp=chrome&pbk=8c_kWWLDJBQWZqBVB2_NOZJfDIVkSFX1TYiM-dSjvjc&sid=d9747f&spx=%2F&type=tcp&headerType=none#Reality-Tcp-NL-Tunell
