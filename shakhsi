@@ -1,3 +1,2 @@
-vless://99ddf298-cb3c-4028-b4a4-cb778582514e@ir.drcctv.shop:8443?type=tcp#Tunell-Tcp-2
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJUdW5lbGwtVGNwIiwKICAiYWRkIjogImlyLmRyY2N0di5zaG9wIiwKICAicG9ydCI6IDU3MDcyLAogICJpZCI6ICJlNWMzZDA1OS0zMmNlLTQxYWEtOWIxNy05ZGNmNmE2YTA3NzIiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
-vless://41866638-7ce1-4850-b89b-7b5f32c04b1d@ir.drcctv.shop:58346?type=grpc&serviceName=#Tunell-Grpc
+vless://9e94dc93-956f-4892-e902-7a608a7e452f@ira.drcctv.shop:8444?encryption=none&security=none&type=tcp&headerType=none#tunell-tcp-uk
+vless://69ecb188-4a88-4cc9-de5f-7c64bdfe9be2@ira.drcctv.shop:8443?encryption=none&security=none&type=tcp&headerType=none#tunell-tcp-ge
