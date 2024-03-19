@@ -1,1 +1,1 @@
-vmess://eyJhZGQiOiIxODUuMjMxLjE4My4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjMyZWFkY2I4LTNmYzQtNDk3YS04ZjVmLWI4ZjI1N2NmNzMwNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwODEiLCJwcyI6IihoaXZhKSBbVk1lc3MgLSB0Y3BdIPCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://6e958fcd-bdec-4767-9b5c-1b2ca0bd5ee9@ira.parsian360.shop:8088?security=none&encryption=none&headerType=none&type=tcp#VPN-DE+%F0%9F%87%A9%F0%9F%87%AA-X
