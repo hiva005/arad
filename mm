@@ -1,1 +1,1 @@
-vless://c0f95aa7-02ff-48d5-9b30-9d76d500ed9b@mz.parsian360.shop:8880?type=tcp&security=none#User-MM
+vless://1c054162-9aa1-4e3a-9421-c8f13d31a62b@miz.parsian360.shop:443?type=ws&path=%2F&host=skyroom.online&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.online#Nim-WS-Miz-MM
