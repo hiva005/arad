@@ -1,1 +1,1 @@
-vless://e02e0eed-a55e-40c2-801e-1abc5e4a23e1@candy.parsian360.shop:443?type=ws&path=%2F%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.online#Candy-WS-MM
+vless://7f5344f0-65d9-40ed-a456-0a323812ccac@king.parsian360.shop:443?type=ws&path=%2F&host=skyroom.online&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.online#King-Ws-MM
