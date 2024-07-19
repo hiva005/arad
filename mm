@@ -1,1 +1,1 @@
-vless://b4124819-2ef0-4afa-b6e9-9d6707db2a2b@irp.parsian360.shop:443?type=ws&path=%2F%3Fed%3D2560&host=jetci.ir&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=jetci.ir#IRP-MM
+vless://7e1bb25e-058f-4926-a6f4-57b9ee11f83c@irm.parsian360.shop:443?type=ws&path=%2Fws%3Fed%3D2048&host=skyroom.ir&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.ir#IRM-MM
