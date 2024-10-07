@@ -1,1 +1,1 @@
-vless://37cc4b2c-3a6d-45c0-9019-d6043e7e18d4@irm.kinghiva.site:443?type=ws&path=%2Fhivahiradarad%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=&allowInsecure=1&sni=skyroom.online#King-S
+vless://0aafb011-2c8b-48fc-90d4-113b942162ea@irf.kinghiva.site:8880?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=none#IRF-s
