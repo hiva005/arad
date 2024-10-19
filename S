@@ -1,1 +1,1 @@
-vless://800d6fc3-3006-48b9-a8aa-baa23a977974@irf.kinghiva.site:443?type=ws&path=%2Fhivahiradarad%3Fed%3D2560&host=anten.ir&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=anten.ir#King-s
+vless://800d6fc3-3006-48b9-a8aa-baa23a977974@irf.kinghiva.site:443?type=ws&path=%2Fhivahiradarad%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.online#King-s
