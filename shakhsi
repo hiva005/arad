@@ -1,3 +1,4 @@
-vless://de754ef0-fc41-4702-b753-e61cf4fff86c@candy.parsian360.shop:443?type=ws&path=%2F%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.online#Candy-WS-Hiva
-vless://1ad5742f-4fcb-4abf-94f9-b5c36ed30b14@candy.parsian360.shop:8880?type=tcp&path=%2F&host=bama.ir%2Ccafeariel.ir%2Cmyket.ir%2Csoft98.ir%2Ctamin.ir%2Caparat.com%2Ckanoon.ir%2Cdlfox.com&headerType=http&security=none#Candy-Tcp
-vless://32fc6c95-9963-4850-b329-c50440a95c34@candy.parsian360.shop:2096?type=tcp&path=%2F&host=bama.ir%2Ccafeariel.ir%2Cmyket.ir%2Csoft98.ir%2Ctamin.ir%2Caparat.com%2Ckanoon.ir%2Cdlfox.com&headerType=http&security=none#Candy-TR-TCP
+vless://a29abb41-60c7-4bda-b45d-4f058a0ee506@irf.kinghiva.site:443?encryption=none&security=none&sni=skyroom.online&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=anten.ir&path=%2Fhivahiradarad%3Fed%3D2560#King-hiva
+vless://934cf3e1-37fb-4a57-80d8-c21005901e59@irf.kinghiva.site:8880?encryption=none&security=none&type=tcp&headerType=none#IRF-tcp
+vless://1d47b4df-f5b5-4f8b-bdec-03160ce1358d@irf.kinghiva.site:2096?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#DE-TCP
+vless://23cb5778-4811-49d1-8aaa-c6aa5ae4a969@armnia.nimcllub-net43.site:443?encryption=none&security=none&type=ws&host=anten.ir&path=%2Fnimcllub%3Fed%3D2560#King-2UZX
