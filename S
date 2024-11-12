@@ -1,1 +1,1 @@
-vless://6895112b-0571-4828-bfe6-623d236bf88e@irf.kinghiva.site:443?type=ws&path=%2F%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=&allowInsecure=1&sni=skyroom.online#King-S
+vless://6895112b-0571-4828-bfe6-623d236bf88e@irm.kinghiva.site:443?type=ws&path=%2F%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=&allowInsecure=1&sni=skyroom.online#King-S
