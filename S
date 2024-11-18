@@ -1,1 +1,1 @@
-vless://d733e25b-fd20-496d-8f37-5c5787ee0b75@irm.kinghiva.site:8443?type=ws&path=%2F%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=&allowInsecure=1&sni=skyroom.online#Balance-S
+vless://ec81509f-e8fa-4445-a04d-3acfac3ace13@irf.kinghiva.site:443?type=ws&path=%2F%3Fed%3D2560&host=skyroom.online&security=tls&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.online#Balance-S
