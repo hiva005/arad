@@ -1,4 +1,3 @@
-vless://a29abb41-60c7-4bda-b45d-4f058a0ee506@irf.kinghiva.site:443?path=%2Fhivahiradarad%3Fed%3D2560&security=none&encryption=none&host=anten.ir&type=ws#King-hiva
-vless://934cf3e1-37fb-4a57-80d8-c21005901e59@irf.kinghiva.site:8880?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#IRF-tcp
-vless://1d47b4df-f5b5-4f8b-bdec-03160ce1358d@irf.kinghiva.site:2096?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#DE-TCP
-vless://23cb5778-4811-49d1-8aaa-c6aa5ae4a969@armnia.nimcllub-net43.site:443?path=%2Fnimcllub%3Fed%3D2560&security=none&encryption=none&host=anten.ir&type=ws#King-2UZX
+vless://ea8cdcfe-7a45-4d0d-a456-e17e60c009cc@irf.kinghiva.site:443?encryption=none&security=tls&sni=skyroom.online&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=skyroom.online&path=%2F%3Fed%3D2560#Balance-Hiva
+vless://e0762ebb-75c2-4746-b6ca-2de8c0888607@irf.kinghiva.site:2053?encryption=none&security=tls&sni=skyroom.online&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=skyroom.online&path=%2F%3Fed%3D2560#King-Hiva
+vless://57b25380-bf2b-47d2-a7ff-914dabc23d7e@irf.kinghiva.site:2096?encryption=none&security=tls&sni=skyroom.online&fp=randomized&allowInsecure=1&type=ws&host=skyroom.online&path=%2F%3Fed%3D2560#TR-DC
