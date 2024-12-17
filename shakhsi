@@ -1,3 +1,1 @@
-vless://ea8cdcfe-7a45-4d0d-a456-e17e60c009cc@irf.kinghiva.site:443?encryption=none&security=tls&sni=skyroom.online&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=skyroom.online&path=%2F%3Fed%3D2560#Balance-Hiva
-vless://e0762ebb-75c2-4746-b6ca-2de8c0888607@irf.kinghiva.site:2053?encryption=none&security=tls&sni=skyroom.online&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=skyroom.online&path=%2F%3Fed%3D2560#King-Hiva
-vless://57b25380-bf2b-47d2-a7ff-914dabc23d7e@irf.kinghiva.site:2096?encryption=none&security=tls&sni=skyroom.online&fp=randomized&allowInsecure=1&type=ws&host=skyroom.online&path=%2F%3Fed%3D2560#TR-DC
+vless://6385e0bd-179d-4f25-9c9a-892c6a8be426@irf.kinghiva.site:443?type=ws&path=%2F%3Fed%3D2560&host=skyroom.online&security=tls&fp=random&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=skyroom.online#Balance-Hiva
