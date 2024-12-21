@@ -1,1 +1,1 @@
-vless://5f57361d-dce6-463f-a0ab-157dab80bcae@irf.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=none#King-Mam
+vless://5f57361d-dce6-463f-a0ab-157dab80bcae@irf.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1#King-Mam
