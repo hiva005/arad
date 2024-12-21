@@ -1,1 +1,1 @@
-vless://9a6d389c-eaaa-4609-929a-8d57c7507c81@irf.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=none#King-Amin
+vless://9a6d389c-eaaa-4609-929a-8d57c7507c81@irf.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1#King-Amin
