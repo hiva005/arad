@@ -1,0 +1,1 @@
+vless://a1e75bbe-63a9-4403-9d59-0e724a0af8f0@ir.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=skyroom.online#%F0%9F%87%A9%F0%9F%87%AAKing-MT
