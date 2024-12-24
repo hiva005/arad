@@ -1,1 +1,1 @@
-vless://503868b5-160f-4b32-b448-3fbf7ea1c1b2@irf.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1#King-Mehdi
+vless://503868b5-160f-4b32-b448-3fbf7ea1c1b2@ir.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=skyroom.online#King-Mehdi
