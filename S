@@ -1,1 +1,1 @@
-vless://a42072c4-e573-43e7-83b6-94d9f33d98e7@ir.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=skyroom.online#King-S
+vless://a42072c4-e573-43e7-83b6-94d9f33d98e7@ir.kinghiva.site:8443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=skyroom.online#King-S
