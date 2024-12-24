@@ -1,1 +1,1 @@
-vless://3e5c5b25-f162-4106-ae48-f390d7420063@irf.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1#King-Farzad
+vless://3e5c5b25-f162-4106-ae48-f390d7420063@ir.kinghiva.site:443?type=tcp&path=%2F&host=skyroom.online&headerType=http&security=tls&fp=chrome&alpn=h2&allowInsecure=1&sni=skyroom.online#King-Farzad
