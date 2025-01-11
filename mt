@@ -1,1 +1,2 @@
 vless://1ddaff28-7ec9-4d1c-8a08-fc70038cf01a@ir.kinghiva.site:443?type=ws&path=%2F%3Fed%3D443&host=ikco.ir.uiblapridayavl.airirancdn.com&security=tls&fp=randomized&alpn=&allowInsecure=1&sni=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AAKing-MT
+vless://24aa82f0-5d22-436a-ba67-6f2ff25a90aa@hiva360.shop:443?type=ws&path=%2F%3Fed%3D443&host=ikco.ir.uiblapridayavl.airirancdn.com&security=tls&fp=randomized&alpn=&allowInsecure=1&sni=varzesh3.com#%F0%9F%87%AC%F0%9F%87%A7UK-SE
