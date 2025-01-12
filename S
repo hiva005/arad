@@ -1,1 +1,1 @@
-vless://eeed093b-d88f-449e-a16b-b248e07115ef@ir.kinghiva.site:443?type=ws&path=%2F%3Fed%3D443&host=ikco.ir.uiblapridayavl.airirancdn.com&security=tls&fp=randomized&alpn=&allowInsecure=1&sni=varzesh3.com#%F0%9F%87%A9%F0%9F%87%AAKing-S
+vless://6cf12f89-2f36-4f9e-bf21-c926a24dbeb1@uk.kinghiva.site:8443?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=Cxu5TITT-rAkPAyrqDWvqXOUv1kQ2vl7ix5qKzsDzxk&fp=chrome&sni=google.com&sid=2b7b300b4ce70eed&spx=%2F#King-S
