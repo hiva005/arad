@@ -1,2 +1,2 @@
-vless://50105c6a-7cca-4ada-b66f-2e8f0293455a@ir.kinghiva.site:443?type=tcp&path=%2F&host=cafebazaar.ir%2Ccafebazaar.ir&headerType=http&security=none#%F0%9F%87%A9%F0%9F%87%AAKing-MT
+vless://50105c6a-7cca-4ada-b66f-2e8f0293455a@ir.kinghiva.site:443?type=tcp&path=%2F&host=cafebazaar.ir%2Cmyket.ir&headerType=http&security=none#%F0%9F%87%A9%F0%9F%87%AAKing-MT
 vless://96256788-077c-43b2-89ee-6c3447df37ee@king.kinghiva.site:8443?type=xhttp&path=%2F&host=&mode=auto&security=reality&pbk=8REO4NniEjXoGK0aHNOstI6BV_S3GVH8zphsak2Q_mE&fp=chrome&sni=google.com&sid=84a8c0102e57a145&spx=%2F#%F0%9F%87%A9%F0%9F%87%AAKingX-MT.
